@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+sklearn
+seaborn
+pandas
+PyWavelets
+mne
+numba
